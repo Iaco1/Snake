@@ -1,5 +1,5 @@
 // Snake.cpp : This file contains the 'main' function. Program execution begins and ends there.
-// test-branch
+// test
 
 #include <iostream>
 #include "Game.hpp"
